@@ -13,7 +13,7 @@ public class SendEmail {
         String to = "22494.ankit15@gmail.com,arnavkumar2995@gmail.com ";
         String from = "22494.ankit@gmail.com";
         final String username = "22494.ankit@gmail.com";
-        final String password = "bpwoikwhoeivirun";
+        final String password = "yourpassword";
         Properties properties = new Properties();
         properties.put("mail.smtp.host", "smtp.gmail.com");
         properties.put("mail.smtp.auth", "true");
